@@ -1,0 +1,7 @@
+/Users/alexismanuelgutierrezfuentes/Desktop/ALEXIS 2/CURSOS-2024/AZ-204/Azure Virtual Machines/learning-app/bin/Publish/learning-app
+/Users/alexismanuelgutierrezfuentes/Desktop/ALEXIS 2/CURSOS-2024/AZ-204/Azure Virtual Machines/learning-app/bin/Publish/appsettings.Development.json
+/Users/alexismanuelgutierrezfuentes/Desktop/ALEXIS 2/CURSOS-2024/AZ-204/Azure Virtual Machines/learning-app/bin/Publish/appsettings.json
+/Users/alexismanuelgutierrezfuentes/Desktop/ALEXIS 2/CURSOS-2024/AZ-204/Azure Virtual Machines/learning-app/bin/Publish/learning-app.dll
+/Users/alexismanuelgutierrezfuentes/Desktop/ALEXIS 2/CURSOS-2024/AZ-204/Azure Virtual Machines/learning-app/bin/Publish/learning-app.deps.json
+/Users/alexismanuelgutierrezfuentes/Desktop/ALEXIS 2/CURSOS-2024/AZ-204/Azure Virtual Machines/learning-app/bin/Publish/learning-app.runtimeconfig.json
+/Users/alexismanuelgutierrezfuentes/Desktop/ALEXIS 2/CURSOS-2024/AZ-204/Azure Virtual Machines/learning-app/bin/Publish/learning-app.pdb
